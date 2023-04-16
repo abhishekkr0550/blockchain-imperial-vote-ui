@@ -15,7 +15,7 @@ export default function FeatureSectionTwo() {
 								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
-								<h4>Developer-1</h4>
+								<h4>Eswar Saladi</h4>
 
 							</div>
 						</div>
@@ -26,7 +26,7 @@ export default function FeatureSectionTwo() {
 								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
-								<h4>Developer-2</h4>
+								<h4>Ankur Thakur</h4>
 
 							</div>
 						</div>
@@ -37,18 +37,20 @@ export default function FeatureSectionTwo() {
 								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
-								<h4>Developer-3</h4>
+								<h4>Abhishek Kumar</h4>
 
 							</div>
 						</div>
 					</div>
-					<div className="col-lg-4 col-md-6">
+					<div className="col-lg-2 col-md-4">
+					</div>
+					<div className="col-lg-4 col-md-6 pd-3">
 						<div className="fugu-iconbox-wrap3 wow fadeInUpX" data-wow-delay="0.30s">
 							<div className="fugu-iconbox-icon3">
 								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
-								<h4>Developer-4</h4>
+								<h4>Satvik Khetan</h4>
 
 							</div>
 						</div>
@@ -59,22 +61,12 @@ export default function FeatureSectionTwo() {
 								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
-								<h4>Developer-5</h4>
+								<h4>Mohit Daswani</h4>
 
 							</div>
 						</div>
 					</div>
-					<div className="col-lg-4 col-md-6">
-						<div className="fugu-iconbox-wrap3 wow fadeInUpX" data-wow-delay="0.50s">
-							<div className="fugu-iconbox-icon3">
-								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
-							</div>
-							<div className="fugu-iconbox-data3">
-								<h4>Developer-6</h4>
 
-							</div>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>
