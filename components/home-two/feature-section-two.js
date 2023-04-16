@@ -12,7 +12,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-4 col-md-6">
 						<div className="fugu-iconbox-wrap3 wow fadeInUpX" data-wow-delay="0s">
 							<div className="fugu-iconbox-icon3">
-								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
+								<img className="iv-contributors" src="/images/all-img/v2/eswar.jpeg" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
 								<h4>Eswar Saladi</h4>
@@ -23,7 +23,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-4 col-md-6">
 						<div className="fugu-iconbox-wrap3 wow fadeInUpX" data-wow-delay="0.10s">
 							<div className="fugu-iconbox-icon3">
-								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
+								<img className="iv-contributors" src="/images/all-img/v2/ankur.jpeg" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
 								<h4>Ankur Thakur</h4>
@@ -34,7 +34,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-4 col-md-6">
 						<div className="fugu-iconbox-wrap3 wow fadeInUpX" data-wow-delay="0.20s">
 							<div className="fugu-iconbox-icon3">
-								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
+								<img className="iv-contributors" src="/images/all-img/v2/abhishek.jpeg" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
 								<h4>Abhishek Kumar</h4>
@@ -47,7 +47,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-4 col-md-6 pd-3">
 						<div className="fugu-iconbox-wrap3 wow fadeInUpX" data-wow-delay="0.30s">
 							<div className="fugu-iconbox-icon3">
-								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
+								<img className="iv-contributors" src="/images/all-img/v2/satvik.jpeg" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
 								<h4>Satvik Khetan</h4>
@@ -58,7 +58,7 @@ export default function FeatureSectionTwo() {
 					<div className="col-lg-4 col-md-6">
 						<div className="fugu-iconbox-wrap3 wow fadeInUpX" data-wow-delay="0.40s">
 							<div className="fugu-iconbox-icon3">
-								<img className="iv-contributors" src="/images/all-img/v2/profile1.png" alt="" />
+								<img className="iv-contributors" src="/images/all-img/v2/mohit.jpeg" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
 								<h4>Mohit Daswani</h4>
