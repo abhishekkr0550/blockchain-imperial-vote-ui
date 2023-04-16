@@ -54,8 +54,8 @@ export default function HeaderHomeTwo() {
 						</nav>
 					</div>
 					<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-						<a className="fugu-btn fugu-header-btn fugu-header-btn2" href="contact.html">
-							Launch App
+						<a className="fugu-btn fugu-header-btn fugu-header-btn2" href="#">
+							Launch App..
 						</a>
 					</div>
 
