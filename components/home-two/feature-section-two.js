@@ -15,7 +15,7 @@ export default function FeatureSectionTwo() {
 								<img className="iv-contributors" src="/images/all-img/v2/eswar.jpeg" alt="" />
 							</div>
 							<div className="fugu-iconbox-data3">
-								<h4>Eswar Saladi</h4>
+								<h4>Generalist</h4>
 
 							</div>
 						</div>
